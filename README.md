@@ -8,4 +8,13 @@ The data were stored as JSON and contains:
 
 It would take a human reader **89,594 minutes** (over 2 months) to read everything at an average reading rate.
 
+Some tools & techniques used for this project are:
+* NLTK
+* Gensim
+* Tokenization
+* Part-of-Speech
+* Tagging
+* Lemmatization
+* HDP-LDA Model
+
 The presentation file is the presentation that was used to communicate highlights from these findings that reveal a trend towards celebrity culture in politics as well as its growing incluence over the private sector in the US.
